@@ -5,7 +5,7 @@ resource "aws_instance" "wipro" {
     tags = {
         "Name" = "prajgithubec2"
         "ttl" ="1300"
-        "owner" = "praj"
+        "owner" = "Prajwal"
     }
 }
 
